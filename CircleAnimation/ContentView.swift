@@ -11,7 +11,7 @@ struct ContentView: View {
     @State var fill: CGFloat = 0.0
     var body: some View {
         ZStack {
-            Color(UIColor(red: 11/255.0, green: 15/255.0, blue: 128/255.0, alpha: 1))
+            Color(UIColor(red: 255/255.0, green: 192/255.0, blue: 203/255.0, alpha: 0.5))
             ZStack{
                 
                 //Track Circle
